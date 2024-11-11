@@ -1,9 +1,9 @@
 # Site settings
 title: System-on-Chip Design & Verification
 author:
-  name: Michelle Lynch
-  email: your-email@domain.com
-description: "A blog."
+  name: Aidan Malone
+  email: G00423306@atu.ie
+description: "FPGA VGA Driver Project."
 
 # Build settings
 remote_theme: jekyll/minima
