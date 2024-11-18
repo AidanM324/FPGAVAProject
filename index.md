@@ -15,7 +15,7 @@ given VGA.Top.v, VGASync.v, VGAColourCycle.v and Testbench.v files, providing es
 The Project part 'xc7a35tcpg236-1' was selected using Artix-7 to initialise the board being used. 
 Set-up Complete!
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ProjectSummary.png">
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ProjectSummary.png?raw=true">
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### **Simulation**
