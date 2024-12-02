@@ -4,7 +4,7 @@ title: FPGA VGA Driver Project
 tags: fpga vga verilog
 categories: demo
 ---
-
+Aidan Malone - G00423306@atu.ie
 Welcome to the FPGA VGA Driver Project, this project aims to outline the step by step process showing the complexities of completing
 a simulated personal design working on the Basys3 board, utilising synthesis and implementation to achieve the design.
 
