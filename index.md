@@ -23,11 +23,12 @@ Outline the structure and design of the Verilog code templates you were given. W
 
 VGA is an analog video interface that transmits Red, Green, and Blue (RGB) color signals, along with horizontal and vertical sync signals, to a display. It uses a 15-pin connector for signal transmission and supports various resolutions and refresh rates. The analog nature of VGA can cause image quality degradation over long cables or high resolutions.
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/VGATop.png?raw=true">
+
 
 The Verilog code templates that were provided were of great use in getting us set up. 
 VGA.Top.v was used to initialize the colours, columns, rows and clock counters needed for design output. The template code for colour cycle and colour stripe was then called in to VGA.Top.v as a function, including the attributes needed to work within the function such as colours, clock, columns and rows, all to allow the selected design output to work efficiently.
 
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/VGATop.png?raw=true">
 **Colour Cycle:**
 
 The Colour Cycle template code was used to demonstrate the capabilities of interchanging colour images through the use of a state loop that interchanges through each clock cycle, a binary colour is set within each state enabling the change. This should perform a clear distinct colour change through each clock pulse.
