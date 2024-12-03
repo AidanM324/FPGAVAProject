@@ -27,7 +27,12 @@ The Verilog code templates that were provided were of great use in getting us se
 VGA.Top.v was used to initialize the colours, columns, rows and clock counters needed for design output. The template code for colour cycle and colour stripe was then called in to VGA.Top.v as a function, including the attributes needed to work within the function such as colours, clock, columns and rows, all to allow the selected design output to work efficiently.
 
 **Colour Cycle:**
-The Colour Cycle template code was used to demonstrate the capabilities of interchanging colour images through the use of a state loop that interchanges through each clock cycle, a binary colour is set within each state enabling the change. This should enable a 
+
+The Colour Cycle template code was used to demonstrate the capabilities of interchanging colour images through the use of a state loop that interchanges through each clock cycle, a binary colour is set within each state enabling the change. This should perform a clear distinct colour change through each clock pulse.
+
+**Colour Stripes**
+
+The Colour Stripes template code was used to demonstrate the ability of using different colours within a singular static image. The use of columns and rows and be interchanged to the desired colour output by using if else statements to select the pixel range of each column and what colour they will produce.
 
 
 ### **Simulation**
