@@ -43,12 +43,14 @@ Explain the simulation process. Reference any important details, include a well-
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 ### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 The demo of both the Colour Cycle and Colour Stripes template demonstrates both the use of clock cycles and different colour grading techniques that can 
 be achieved using the Basys3 board. As seen below.
 
-//png of colour cycle vid and colour stripe photo.
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycle.gif?raw=true">
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ProjectSummary.png?raw=true">
 
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
