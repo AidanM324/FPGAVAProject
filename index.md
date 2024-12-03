@@ -51,7 +51,6 @@ be achieved using the Basys3 board. As seen below.
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourStripes.jpeg?raw=true">
 
 ## **My VGA Design Edit**
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 
 During the Design Edit phase, I decided to go for a more complex approach, instead of choosing a static image design I began to brainstorm an idea that involved moving parts.
 I was aware that this specific design was tasking to do but  I aimed to test my capabilities in understanding and writing VGA code,
