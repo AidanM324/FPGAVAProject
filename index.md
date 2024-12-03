@@ -50,7 +50,7 @@ be achieved using the Basys3 board. As seen below.
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycle.gif?raw=true">
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ProjectSummary.png?raw=true">
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourStripes.jpeg?raw=true">
 
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
