@@ -26,16 +26,34 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
+The demo of both the Colour Cycle and Colour Stripes template demonstrates both the use of clock cycles and different colour grading techniques that can 
+be achieved using the Basys3 board. As seen below.
+
+//png of colour cycle vid an dcolour stripe photo.
+
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
+
+During the Design Edit phase, I decided to go for a more complex approach, instead of choosing a static image design I began to brainstorm an idea that involved moving parts.
+I was aware that this specific design was tasking to do but  I aimed to test my capabilities in understanding and writing VGA code,
+utilizing the template code that was given from both the colour cycle and colour stripe designs, then incorperating the two design choices to create a rotating colour stripe 
+image that would rotate each colour in sequential order.
+
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
+
+To adapt the code I used the colour stripe template given by our lecturer which contained the correct sizing and binary of each colour stripe,
+this was a good starting point as I could work on adapting the code into multiple different static images, rotating between eachother,
+
+I the  used the CLK counter state loop from the Colour Cycle template code and incorperated
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+
+This video demonstrates the sequential Colour Stripes video, through the use of the Basys3 Clock counter, moving each colour to the next column through each clock cycle, the design was successful.
 
 ## **More Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
