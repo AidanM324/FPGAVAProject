@@ -72,11 +72,11 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SynthesisSchematic.png?raw=true">
+
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthesisSchematic.png?raw=true">
-
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SynthesisSchematic.png?raw=true">
 
 ### **Demonstration**
 
