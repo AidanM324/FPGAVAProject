@@ -43,6 +43,9 @@ Explain the simulation process. Reference any important details, include a well-
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycleSynthesisDesign.png?raw=true">
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
+
 ### **Demonstration**
 
 The demo of both the Colour Cycle and Colour Stripes template demonstrates both the use of clock cycles and different colour grading techniques that can 
@@ -76,8 +79,6 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SynthesisSchematic.png?raw=true">
-
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthesisSchematic.png?raw=true">
 
