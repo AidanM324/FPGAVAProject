@@ -58,7 +58,6 @@ utilizing the template code that was given from both the colour cycle and colour
 image that would rotate each colour in sequential order.
 
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 
 To adapt the code I used the colour stripe template given by our lecturer which contained the correct sizing and binary of each colour stripe,
 this was a good starting point as I could work on adapting the code into multiple different static images, rotating between eachother,
@@ -67,6 +66,9 @@ I then used the CLK counter state loop from the Colour Cycle template code and i
 Following this, I then changed the binary colours, moving each colour column by 1 in each state to create a moving track design through the use of the clock counter cycle.
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/BehaviouralSim-CLK.png?raw=true">
+
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
 ### **Demonstration**
