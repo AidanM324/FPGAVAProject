@@ -73,6 +73,8 @@ Following this, I then changed the binary colours, moving each colour column by 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
+Through viewing the Behavoural Clock Simulation, it is validating to see that the Clock Cycle [clk] and the Column Counter [col 10:0] are in sync with eachother, showing that the design is functioning as promised.
+
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/BehaviouralSim-CLK.png?raw=true">
 
 ### **Synthesis**
