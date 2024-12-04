@@ -74,7 +74,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthSchematic.png?raw=true">
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthesisSchematic.png?raw=true">
 
 ### **Demonstration**
 
