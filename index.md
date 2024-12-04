@@ -76,6 +76,8 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthesisSchematic.png?raw=true">
 
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SynthesisSchematic.png?raw=true">
+
 ### **Demonstration**
 
 This video demonstrates the sequential Colour Stripes video, through the use of the Basys3 Clock counter, moving each colour to the next column through each clock cycle, the design was successful.
