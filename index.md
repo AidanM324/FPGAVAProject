@@ -71,6 +71,11 @@ Show how you simulated your own design. Are there any things to note? Demonstrat
 
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedInSynthSchematic.png?raw=true">
+
 ### **Demonstration**
 
 This video demonstrates the sequential Colour Stripes video, through the use of the Basys3 Clock counter, moving each colour to the next column through each clock cycle, the design was successful.
