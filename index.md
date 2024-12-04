@@ -39,9 +39,10 @@ The Colour Stripes template code was used to demonstrate the ability of using di
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycleSynthesisDesign.png?raw=true">
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycleSynthesisDesign.png?raw=true">
 ### **Demonstration**
 
 The demo of both the Colour Cycle and Colour Stripes template demonstrates both the use of clock cycles and different colour grading techniques that can 
