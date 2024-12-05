@@ -49,11 +49,12 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 
 The synthesis process in the FPGA VGA Driver project involves translating the Verilog code into a netlist of logic gates that can be mapped onto the FPGA hardware. This step checks for syntax errors, optimizes the design, and ensures that the logic will fit within the available resources on the Basys3 board. After synthesis, the implementation phase takes place, where the netlist is physically mapped to the FPGA’s architecture, including the placement and routing of the logic elements.
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycleSynthesisDesign.png?raw=true"> 
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
+ 
 
 During implementation, the FPGA toolchain ensures that all timing constraints are met, and the design will operate correctly at the intended clock speed. The implementation process also generates a bitstream file, which is used to configure the FPGA to perform the VGA driver functionality. If any issues arise (e.g. timing violations), adjustments are made before finalizing the design.
 
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ZoomedOutSynthSchematic.png?raw=true">
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycleSynthesisDesign.png?raw=true">
 
 ### **Demonstration**
 
