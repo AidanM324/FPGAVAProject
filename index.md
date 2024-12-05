@@ -61,8 +61,11 @@ During implementation, the FPGA toolchain ensures that all timing constraints ar
 The demo of both the Colour Cycle and Colour Stripes template demonstrates both the use of clock cycles and different colour grading techniques that can 
 be achieved using the Basys3 board. As seen below.
 
+**Colour Cycle**
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourCycle.gif?raw=true">
+
+**Colour Stripes**
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourStripes.jpeg?raw=true">
 
