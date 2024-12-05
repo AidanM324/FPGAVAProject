@@ -42,7 +42,7 @@ The simulation process for the FPGA VGA Driver project involves creating a testb
 
 Key details to consider during simulation include ensuring proper timing of the VGA signals, accurate pixel generation, and the correct mapping of color data to the VGA format. The simulation must match the timing constraints required for the Basys3 FPGA and VGA display, and any errors identified during simulation can be corrected before synthesis, saving time and resources in the hardware implementation phase.
 
-
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/counter_n-tick-waveform.webp?raw=true">
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
