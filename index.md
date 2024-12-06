@@ -110,8 +110,12 @@ This video demonstrates the sequential Colour Stripes video, through the use of 
 
 
 **References**
+
 FPGA Coding : [https://fpgacoding.com/].
+
 System-on-Chip Design and Verification (module slides) "Michelle Lynch".
+
 Driving a VGA Monitor : [https://embeddedthoughts.com/].
+
 Github : [GitHub Help](https://help.github.com/).
 
