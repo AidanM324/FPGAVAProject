@@ -83,6 +83,7 @@ this was a good starting point as I could work on adapting the code into multipl
 
 I then used the CLK counter state loop from the Colour Cycle template code and incorperated it with the binary if else statements of the Colour Stripe code to allow the interchanging static images of the binary colour columns. 
 Following this, I then changed the binary colours, moving each colour column by 1 in each state to create a moving track design through the use of the clock counter cycle.
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
@@ -91,7 +92,11 @@ Through viewing the Behavoural Clock Simulation, it is validating to see that th
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/BehaviouralSim-CLK.png?raw=true">
 
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
+The Synthesis output shows the optimized logic gates and resources required to implement the VGA driver, while the implementation output includes placement and routing information, ensuring that all signals meet timing constraints. The bitstream file generated can then be used to program the FPGA.
+ 
+The Synthesis and Implementation outputs for my design showed a massive increase in the number of statements and counters,
+the original design had to be updated to optimize resource allocation. These adjustments ensure the design works correctly within the available FPGA resources. this can be seen in the Synthesis schematic produced for my design, this increase is due to the transition of my colour stripe image which requires more resources to produce the VGA design.
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SynthesisSchematic.png?raw=true">
 
@@ -103,20 +108,10 @@ This video demonstrates the sequential Colour Stripes video, through the use of 
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ColourStripeRotation.gif?raw=true">
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
 
-Font can be emphasised as *Italic* or **Bold**.
+**References**
+FPGA Coding : [https://fpgacoding.com/].
+System-on-Chip Design and Verification (module slides) "Michelle Lynch".
+Driving a VGA Monitor : [https://embeddedthoughts.com/].
+Github : [GitHub Help](https://help.github.com/).
 
-Code can be highlighted by using `backticks`.
-
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/SourcesView.png?raw=true">
