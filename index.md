@@ -84,6 +84,8 @@ this was a good starting point as I could work on adapting the code into multipl
 I then used the CLK counter state loop from the Colour Cycle template code and incorperated it with the binary if else statements of the Colour Stripe code to allow the interchanging static images of the binary colour columns. 
 Following this, I then changed the binary colours, moving each colour column by 1 in each state to create a moving track design through the use of the clock counter cycle.
 
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/FunctionsWithinStatement1.png?raw=true">
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
