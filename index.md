@@ -90,7 +90,8 @@ Following this, I then changed the binary colours, moving each colour column by 
 </p>
 
 ### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+
+To simulate my FPGA VGA Driver design, I used a testbench template that modeled the input signals for the VGA controller, such as horizontal and vertical sync pulses and pixel data. I used Vivado's built-in simulator to run the simulation and observe the timing of these signals, ensuring that they matched the expected VGA signal specifications. The simulation allowed me to verify the behavior of the design.
 
 Through viewing the Behavoural Clock Simulation, it is validating to see that the Clock Cycle [clk] and the Column Counter [col 10:0] are in sync with eachother, showing that the design is functioning as promised.
 
