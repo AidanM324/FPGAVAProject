@@ -17,7 +17,8 @@ The Project part 'xc7a35tcpg236-1' was selected using Artix-7 to initialise the 
 Set-up Complete!
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/ProjectSummary.png?raw=true">
-### **Template Code**
+
+ **Template Code**
 
 VGA is an analog video interface that transmits Red, Green, and Blue (RGB) color signals, along with horizontal and vertical sync signals, to a display. It uses a 15-pin connector for signal transmission and supports various resolutions and refresh rates. The analog nature of VGA can cause image quality degradation over long cables or high resolutions.
 
@@ -45,7 +46,6 @@ Key details to consider during simulation include ensuring proper timing of the 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/counter_n-tick-waveform.webp?raw=true">
 
 ### **Synthesis**
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 
 The synthesis process in the FPGA VGA Driver project involves translating the Verilog code into a netlist of logic gates that can be mapped onto the FPGA hardware. This step checks for syntax errors, optimizes the design, and ensures that the logic will fit within the available resources on the Basys3 board. After synthesis, the implementation phase takes place, where the netlist is physically mapped to the FPGA’s architecture, including the placement and routing of the logic elements.
 
