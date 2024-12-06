@@ -85,7 +85,7 @@ I then used the CLK counter state loop from the Colour Cycle template code and i
 Following this, I then changed the binary colours, moving each colour column by 1 in each state to create a moving track design through the use of the clock counter cycle.
 
 <img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/FunctionsWithinStatement1.png?raw=true">
-
+<img src="https://github.com/AidanM324/FPGAVAProject/blob/main/docs/assets/images/FunctionsWithinStatement2.png?raw=true">
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 
